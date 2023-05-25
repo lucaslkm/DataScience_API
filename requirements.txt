@@ -1,0 +1,9 @@
+fastapi
+pandas
+uvicorn[standard]
+httpx
+pytest
+pytest-asyncio
+pycaret
+asgi-lifespan
+pandas-profiling
